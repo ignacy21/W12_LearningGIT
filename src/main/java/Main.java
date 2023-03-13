@@ -6,6 +6,6 @@ public class Main {
         int x = 521;
         System.out.println(x);
 
-        
+
     }
 }
