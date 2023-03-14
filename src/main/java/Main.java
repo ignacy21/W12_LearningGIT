@@ -5,7 +5,9 @@ public class Main {
         System.out.println("GIT");
         int x = 521;
         System.out.println(x);
-
+        // siubidubidam
+        System.out.println("ale ktoś ryczy motorkiem albo czymś innym");
+        System.out.println("RAAAAAA");
 
     }
 }
